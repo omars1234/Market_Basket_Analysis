@@ -24,4 +24,4 @@ pip install -r requirements.txt
 
 ## *Project Structure :*
 
-![Logo](Explainatory_factor_analysi.png)
+![Logo](Market_Basket_Analysis.png)
